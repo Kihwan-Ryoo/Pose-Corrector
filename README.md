@@ -1,4 +1,4 @@
-This is the project for sensing and alarming pose status in front of computer.
+This is the project for sensing and alarming posture state in front of computer.
 
 For Hardware,
 An atmega128 module is connected to PC. And IMU sensor, Ultrasonic sensor, flex sensor, buzzer, LED are connected to the atmega128 module.
